@@ -1,0 +1,11 @@
+{
+  "name": "@english-cupid/shared",
+  "version": "0.1.0",
+  "private": true,
+  "types": "./types/index.ts",
+  "exports": {
+    "./types/*": "./types/*",
+    "./constants/*": "./constants/*",
+    "./utils/*": "./utils/*"
+  }
+}
